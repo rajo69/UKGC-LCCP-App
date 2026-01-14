@@ -1,0 +1,5 @@
+{
+  "name": "LCCP RAG Chat",
+  "description": "A dark-themed, cursor-reactive chat interface for querying the UKGC LCCP regulations with source grounding.",
+  "requestFramePermissions": []
+}
